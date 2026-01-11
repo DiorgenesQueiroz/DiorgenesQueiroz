@@ -1,10 +1,10 @@
 # 👨‍💻 Diorgenes Queiroz
 
-## Desenvolvedor Full Stack
+## Desenvolvedor Full Stack Júnior
 
-Desenvolvedor **Full Stack** com experiência no desenvolvimento de aplicações web modernas, escaláveis e bem estruturadas. Atuo tanto no **front-end** quanto no **back-end**, prezando por boas práticas, performance, organização de código e manutenibilidade.
+Sou **Desenvolvedor Full Stack Júnior**, com foco em construir aplicações web funcionais, organizadas e de fácil manutenção. Possuo experiência prática em **front-end** e **back-end**, sempre buscando evoluir tecnicamente, aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
 
-Tenho perfil proativo, foco em aprendizado contínuo e facilidade para transformar ideias em soluções funcionais.
+Tenho perfil colaborativo, gosto de trabalhar em equipe e estou em constante evolução, tanto nas habilidades técnicas quanto comportamentais.
 
 ---
 
@@ -18,49 +18,43 @@ Tenho perfil proativo, foco em aprendizado contínuo e facilidade para transform
 ### Back-end
 - Node.js  
 
-### Versionamento & Boas Práticas
+### Ferramentas & Conceitos
 - Git e GitHub  
 - APIs REST  
-- Arquitetura básica de aplicações web  
-- Código limpo e organizado  
+- Lógica de programação  
+- Organização e manutenção de código  
 
 ---
 
-## 📂 Repositórios
+## 🤝 Soft Skills
 
-Neste perfil você encontrará:
-- Projetos práticos de desenvolvimento web  
-- Aplicações full stack  
-- Estudos técnicos e experimentos  
-- Implementações focadas em aprendizado e evolução profissional  
+- Facilidade de aprendizado  
+- Boa comunicação  
+- Trabalho em equipe  
+- Proatividade  
+- Organização e responsabilidade  
+- Abertura a feedbacks  
+- Comprometimento com prazos e qualidade  
+
+---
+
+## 📂 O que você encontrará neste GitHub
+
+- Projetos pessoais e de estudo  
+- Aplicações web (front-end e full stack)  
+- Desafios práticos  
+- Evolução contínua do código e aprendizado  
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar como desenvolvedor, contribuindo para projetos desafiadores, aprimorando constantemente minhas habilidades técnicas e entregando soluções eficientes e de qualidade.
+Conquistar uma oportunidade como **Desenvolvedor Júnior**, contribuindo com o time de desenvolvimento, aprendendo com profissionais mais experientes e evoluindo constantemente para entregar soluções de valor.
 
 ---
 
 ## 📬 Contato
 
-- GitHub: https://github.com/seu-usuario  
-
----
-
-⭐ Sinta-se à vontade para explorar os repositórios e contribuir.
-
-<!--
-**DiorgenesQueiroz/DiorgenesQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 LinkedIn: https://www.linkedin.com/in/diorgenesqueiroz  
+- 📧 E-mail: diorgenesqueiroz1@gmail.com  
+- 📱 WhatsApp: (81) 99645-1498  
