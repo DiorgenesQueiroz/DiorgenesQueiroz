@@ -31,15 +31,6 @@ Perfil colaborativo, sempre buscando evoluir tecnicamente e aplicar boas prátic
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula"/>
-</p>
-
----
-
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
