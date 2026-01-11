@@ -1,60 +1,54 @@
-# 👨‍💻 Diorgenes Queiroz
+<h1 align="center">👨‍💻 Diorgenes Queiroz</h1>
+<h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
-## Desenvolvedor Full Stack Júnior
-
-Sou **Desenvolvedor Full Stack Júnior**, com foco em construir aplicações web funcionais, organizadas e de fácil manutenção. Possuo experiência prática em **front-end** e **back-end**, sempre buscando evoluir tecnicamente, aprender novas tecnologias e aplicar boas práticas de desenvolvimento.
-
-Tenho perfil colaborativo, gosto de trabalhar em equipe e estou em constante evolução, tanto nas habilidades técnicas quanto comportamentais.
-
----
-
-## 🧠 Competências Técnicas
-
-### Front-end
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-
-### Back-end
-- Node.js  
-
-### Ferramentas & Conceitos
-- Git e GitHub  
-- APIs REST  
-- Lógica de programação  
-- Organização e manutenção de código  
+<p align="center">
+  <a href="https://www.linkedin.com/in/diorgenesqueiroz">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:diorgenes.didi@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Soft Skills
+### 🧑‍💻 Sobre mim
 
-- Facilidade de aprendizado  
-- Boa comunicação  
-- Trabalho em equipe  
-- Proatividade  
-- Organização e responsabilidade  
-- Abertura a feedbacks  
-- Comprometimento com prazos e qualidade  
+Sou Desenvolvedor Full Stack Júnior focado em aplicações web funcionais e de fácil manutenção. 
+Perfil colaborativo, sempre buscando evoluir tecnicamente e aplicar boas práticas.
 
 ---
 
-## 📂 O que você encontrará neste GitHub
+### 🛠️ Tecnologias & Ferramentas
 
-- Projetos pessoais e de estudo  
-- Aplicações web (front-end e full stack)  
-- Desafios práticos  
-- Evolução contínua do código e aprendizado  
-
----
-
-## 🎯 Objetivo Profissional
-
-Conquistar uma oportunidade como **Desenvolvedor Júnior**, contribuindo com o time de desenvolvimento, aprendendo com profissionais mais experientes e evoluindo constantemente para entregar soluções de valor.
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📬 Contato
+### 📊 GitHub Stats
 
-- 💼 LinkedIn: https://www.linkedin.com/in/diorgenesqueiroz  
-- 📧 E-mail: diorgenes.didi@hotmail.com 
-- 📱 WhatsApp: (81) 99645-1498  
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Nome do Projeto](link) | Breve descrição | JS, Node.js |
+| [Nome do Projeto](link) | Breve descrição | HTML, CSS |
+
+---
+
+### 🎯 Objetivo
+
+Conquistar uma oportunidade como **Desenvolvedor Júnior**, contribuindo com o time e evoluindo constantemente.
