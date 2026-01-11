@@ -56,5 +56,5 @@ Conquistar uma oportunidade como **Desenvolvedor Júnior**, contribuindo com o t
 ## 📬 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diorgenesqueiroz  
-- 📧 E-mail: diorgenesqueiroz1@gmail.com  
+- 📧 E-mail: diorgenes.didi@hotmail.com 
 - 📱 WhatsApp: (81) 99645-1498  
